@@ -1,7 +1,7 @@
 
 // MFCApplication5Dlg.cpp : implementation file
 //
-
+// http://splanet.bglb.jp/spcom2/
 #include "stdafx.h"
 #include "MFCApplication5.h"
 #include "MFCApplication5Dlg.h"
